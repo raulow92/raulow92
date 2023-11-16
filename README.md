@@ -11,6 +11,6 @@ Perfeccionista, creativo y responsable. He desarrollado proyectos utilizando tec
 
 
 ### 🗒️ Random Dev Quote
-<p><img width=100% align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal" /></p>
+<p width=100%><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal" /></p>
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical)
