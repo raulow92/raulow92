@@ -1,5 +1,6 @@
 # 🤓 About Me:
 Perfeccionista, creativo y responsable. He desarrollado proyectos utilizando tecnologías como: JavaScript, React, Tailwind CSS, Node.js, Express.js, SQL y Python. Busco trabajar en una compañía que me permita ampliar mis conocimientos y aprender nuevas habilidades para crecer profesionalmente. 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raulow) 
 
 # 💻 Tech Stack:
