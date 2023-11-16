@@ -6,7 +6,7 @@ Perfeccionista, creativo y responsable. He desarrollado proyectos utilizando tec
 # 📚 GitHub Stats:
 
 <p><img height=200 width=100% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raulow92&theme=prussian&hide_border=true&card_width=500" alt="raulow92" /></p>
-<p><img height=200 width=100% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulow92&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=500" alt="raulow92" /></p>
+<p><img height=200 width=100% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulow92&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=400" alt="raulow92" /></p>
 <p><img height=200 width=100% align="center" src="https://github-readme-stats.vercel.app/api?username=raulow92&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&card_width=500" alt="raulow92" /></p>
 
 
