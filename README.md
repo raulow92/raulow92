@@ -1,5 +1,5 @@
 # 🤓 About Me:
-Frontend Developer and Industrial Designer. Since 2023 I've been working at Betback, building full stack web and mobile applications for clients in retail, energy, mining, transportation and the public sector.
+Fullstack Developer and Industrial Designer. Since 2023 I've been working at Betback, building full stack web and mobile applications for clients in retail, energy, mining, transportation and the public sector.
 
 My main stack: **React, Next.js, TypeScript, Tailwind, NestJS, PostgreSQL** and **React Native** for mobile.
 
